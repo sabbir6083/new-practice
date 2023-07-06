@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+.first-column{
+    padding: 50px;
+    background: tomato;
+    width: 400px;
+    
+}
+
+.secound-column{
+    padding: 50px;
+    background: rebeccapurple;
+    width: 400px;
+    
+}
+
+.third-column{
+    padding: 50px;
+    background: skyblue;
+    width: 400px;
+    
+}
